@@ -1,4 +1,4 @@
-# TV-Rank
+# tvstats
 
 A system that ranks top tv traders based on their published  trading history based on their idea position and takes trades accordingly.
 
@@ -7,4 +7,4 @@ A system that ranks top tv traders based on their published  trading history bas
 
 * Run:
 `$ meteor`
-# tvstats
+
